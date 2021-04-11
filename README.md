@@ -3,7 +3,7 @@
 ## Description
 App that lets you to login and register
 ---
-## run app
+## How to run 
 ```
 #install node_modules
 cd mern-auth-front
