@@ -1,5 +1,5 @@
-# LoginSystem
-#### Login and register app
+## LoginSystem
+  Login and register app
 ---
 ## How to run 
 ```
