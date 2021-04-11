@@ -1,5 +1,4 @@
 ## LoginSystem
----
 ## How to run 
 ```
 #install node_modules
