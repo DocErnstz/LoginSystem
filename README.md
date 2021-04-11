@@ -1,5 +1,5 @@
 # LoginSystem
-app where you can login and register
+login and register app
 ---
 ## How to run 
 ```
