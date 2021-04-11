@@ -1,5 +1,4 @@
 ## LoginSystem
-  Login and register app
 ---
 ## How to run 
 ```
