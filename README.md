@@ -1,5 +1,5 @@
-# LoginSystem
-login and register app
+## LoginSystem
+Login and register app
 ---
 ## How to run 
 ```
@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 ---
-# Technologies
+## Technologies
 - MongoDB
 - Express
 - React
