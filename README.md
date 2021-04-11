@@ -1,7 +1,5 @@
 # LoginSystem
----
-# Description
-App that lets you to login and register
+app where you can login and register
 ---
 ## How to run 
 ```
