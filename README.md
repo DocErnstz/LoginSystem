@@ -1,5 +1,5 @@
 ## LoginSystem
-login system made with react using useContext and useHistory hooks
+Login system made with react using useContext and useHistory hooks
 ## How to run 
 ```
 #install node_modules
